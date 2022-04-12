@@ -1,13 +1,6 @@
 [
   {
     "id": 0,
-    "remarks": "get_subscribe",
-    "site": "https://github.com/ronghuaxueleng/get_v2",
-    "url": "https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/cfmem.yml",
-    "enabled": true
-  },
-  {
-    "id": 1,
     "remarks": "source",
     "site": "https://raw.githubusercontent.com/666greatChina888/Proxies/master/sub/README.md",
     "url": "https://raw.githubusercontent.com/yu-steven/openit/main/url",
