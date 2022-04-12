@@ -9,7 +9,7 @@ dirname = time.strftime("%Y_%m_%d", time.localtime(time.time()))
 yamlUtils = YamlUtils(changfengoss)
 yamlUtils.clone_repo("https://ghproxy.com/https://github.com/changfengoss/pub.git")
 yamlUtils.make_template_dict("yaml", dirname)
-yamlUtils.save_file("pub/changfengoss.yaml")
+yamlUtils.save_file("sub/changfengoss.yaml")
 shutil.rmtree(changfengoss)
 
 cfmem_content()
@@ -20,4 +20,4 @@ yamlUtils = YamlUtils(pub)
 yamlUtils.make_template(
     ["cfmem.yaml"]
 )
-yamlUtils.save_file("pub/combine.yaml")
+yamlUtils.save_file("sub/combine.yaml")
