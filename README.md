@@ -54,12 +54,11 @@
 - [sub](https://github.com/666greatChina888/Code-Store/tree/master/sub)
 
 ### 所有节点
-合并节点总数: `83`
+合并节点总数: `52`
 [节点链接](https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/sub_merge_yaml.yml)
 
 ### 节点来源
-- [MoonFree](https://hi.moon365.workers.dev/free), 节点数量: `0`
-- [source](https://raw.githubusercontent.com/666greatChina888/Proxies/master/sub/README.md), 节点数量: `83`
+- [source](https://raw.githubusercontent.com/666greatChina888/Proxies/master/sub/README.md), 节点数量: `0`
 
 ## 客户端选择
 ### 主流桌面客户端
