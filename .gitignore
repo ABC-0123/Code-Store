@@ -1,0 +1,5 @@
+/auto_action.bat
+/utils/get_list.py
+venv/
+/.idea
+__pycache__
