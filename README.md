@@ -54,7 +54,7 @@
 - [sub](https://github.com/666greatChina888/Code-Store/tree/master/sub)
 
 ### 所有节点
-合并节点总数: `52`
+合并节点总数: `48`
 [节点链接](https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/sub_merge_yaml.yml)
 
 ### 节点来源
