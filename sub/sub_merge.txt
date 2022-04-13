@@ -11,4 +11,4 @@ trojan://5e4ca60f-2437-420e-8d53-343671cfb711@zz02.00000000-0000-0000-0000-00000
 trojan://4b3903e2-f2a2-4831-95be-03cc8e3a7244@azhk.fenglingcloud.com:28007?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0-HK%5D%5B20.205.119.191%5D
 trojan://4b3903e2-f2a2-4831-95be-03cc8e3a7244@azhk.fenglingcloud.com:28004?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0-HK%5D%5B20.205.119.191%5D
 trojan://4b3903e2-f2a2-4831-95be-03cc8e3a7244@cm.fenglingcloud.com:19561?allowInsecure=1#%5B%F0%9F%87%A8%F0%9F%87%B3-CN%5D%5B183.240.181.43%5D
-trojan://4b3903e2-f2a2-4831-95be-03cc8e3a7244@www.fenglingcloud.com:10086?allowInsecure=1#%5B%F0%9F%87%BA%F0%9F%87%B8-US%5D%5B46.232.124.85%5D
+trojan://4b3903e2-f2a2-4831-95be-03cc8e3a7244@www.fenglingcloud.com:10086?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC-SG%5D%5B134.122.171.234%5D

@@ -12,4 +12,4 @@ proxies:
 - {name: "[🇭🇰-HK][20.205.119.191]", server: azhk.fenglingcloud.com, port: 28007, type: trojan, password: 4b3903e2-f2a2-4831-95be-03cc8e3a7244, skip-cert-verify: true}
 - {name: "[🇭🇰-HK][20.205.119.191]", server: azhk.fenglingcloud.com, port: 28004, type: trojan, password: 4b3903e2-f2a2-4831-95be-03cc8e3a7244, skip-cert-verify: true}
 - {name: "[🇨🇳-CN][183.240.181.43]", server: cm.fenglingcloud.com, port: 19561, type: trojan, password: 4b3903e2-f2a2-4831-95be-03cc8e3a7244, skip-cert-verify: true}
-- {name: "[🇺🇸-US][46.232.124.85]", server: www.fenglingcloud.com, port: 10086, type: trojan, password: 4b3903e2-f2a2-4831-95be-03cc8e3a7244, skip-cert-verify: true}
+- {name: "[🇸🇬-SG][134.122.171.234]", server: www.fenglingcloud.com, port: 10086, type: trojan, password: 4b3903e2-f2a2-4831-95be-03cc8e3a7244, skip-cert-verify: true}
