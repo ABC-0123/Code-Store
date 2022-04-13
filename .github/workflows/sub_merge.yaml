@@ -5,12 +5,12 @@ on:
   schedule:
     # - cron: '*/5 * * * *'
     # 表达式生成  https://crontab.guru/
-    - cron: '35 3,6,9,12,15,18,21,0 * * *'
+    - cron: '20 */1 * * *'
   workflow_dispatch:
-    watch:
-      types: started
-    repository_dispatch:
-      types: list_merge
+  watch:
+    types: started
+  repository_dispatch:
+    types: list_merge
 
 jobs:
   list_merge:
