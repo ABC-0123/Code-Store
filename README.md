@@ -54,11 +54,11 @@
 - [sub](https://github.com/666greatChina888/Code-Store/tree/master/sub)
 
 ### 所有节点
-合并节点总数: `18`
+合并节点总数: `34`
 [节点链接](https://raw.githubusercontent.com/666greatChina888/Code-Store/master/sub/sub_merge_yaml.yml)
 
 ### 节点来源
-- [source](https://raw.githubusercontent.com/666greatChina888/Proxies/master/sub/README.md), 节点数量: `34`
+- [source](https://raw.githubusercontent.com/666greatChina888/Proxies/master/sub/README.md), 节点数量: `110`
 
 ## 客户端选择
 ### 主流桌面客户端
